@@ -1,0 +1,9 @@
+{
+  "go.goroot": "/usr/local/go",
+  "go.alternateTools": {
+    "gopls": "/Users/jes/go/bin/gopls",
+    "dlv": "/Users/jes/go/bin/dlv",
+    "goimports": "/Users/jes/go/bin/goimports",
+    "staticcheck": "/Users/jes/go/bin/staticcheck"
+  }
+}
